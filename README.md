@@ -306,4 +306,4 @@ Busco crear soluciones digitales que ayuden a negocios, escuelas y personas a or
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer" />
 </p>
-```
+
