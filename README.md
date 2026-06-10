@@ -1,5 +1,4 @@
 ````md
-<!-- BANNER PRINCIPAL -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=230&section=header&text=Ángel%20A.%20Colón%20Negrón&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programador%20%7C%20Técnico%20de%20Computadoras%20%7C%20Desarrollador%20Web&descAlignY=58&descSize=16" />
 </p>
@@ -16,7 +15,6 @@
 
 ---
 
-<!-- BOTONES PRINCIPALES -->
 <p align="center">
   <a href="https://angeltechsolutions.dev/">
     <img src="https://img.shields.io/badge/🌐%20Página%20Web%20Oficial-AngelTech%20Solutions-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -56,7 +54,8 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ángel A. Colón Negrón**, programador y técnico de computadoras.  
+Soy **Ángel A. Colón Negrón**, programador y técnico de computadoras de Puerto Rico 🇵🇷.
+
 Me especializo en crear páginas web modernas, sistemas administrativos, dashboards, formularios inteligentes, automatizaciones y plataformas digitales para resolver problemas reales.
 
 Trabajo combinando **diseño web, programación, soporte técnico, inteligencia artificial y organización digital** para crear soluciones útiles, profesionales y fáciles de usar.
@@ -205,6 +204,53 @@ Trabajo combinando **diseño web, programación, soporte técnico, inteligencia 
 
 ---
 
+## 🧩 Servicios y soluciones
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">💻 Desarrollo Web</h3>
+      <p align="center">
+        Páginas modernas, responsivas y profesionales para negocios, escuelas y proyectos personales.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">📊 Dashboards</h3>
+      <p align="center">
+        Paneles administrativos para visualizar datos, solicitudes, formularios y estadísticas internas.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🛠️ Soporte Técnico</h3>
+      <p align="center">
+        Instalación, mantenimiento, reparación de computadoras y soluciones técnicas.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">📋 Formularios</h3>
+      <p align="center">
+        Formularios inteligentes para solicitudes, registros, servicios, citas y contacto.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🤖 Automatizaciones</h3>
+      <p align="center">
+        Procesos digitales para ahorrar tiempo, organizar información y mejorar el flujo de trabajo.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🌐 Soluciones Digitales</h3>
+      <p align="center">
+        Sistemas completos adaptados a necesidades reales de escuelas, negocios y clientes.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Mi enfoque
 
 ```txt
@@ -216,6 +262,14 @@ Trabajo combinando **diseño web, programación, soporte técnico, inteligencia 
 ✅ Soluciones reales para escuelas y negocios
 ✅ Integración de herramientas modernas e inteligencia artificial
 ````
+
+---
+
+## 🚀 Objetivo
+
+Mi objetivo es seguir creciendo como programador y técnico de computadoras, desarrollando proyectos que sean útiles, modernos y profesionales.
+
+Busco crear soluciones digitales que ayuden a negocios, escuelas y personas a organizar mejor sus procesos, presentar sus servicios y mejorar su presencia en internet.
 
 ---
 
@@ -238,7 +292,17 @@ Trabajo combinando **diseño web, programación, soporte técnico, inteligencia 
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:contacto@angeltechsolutions.dev">
+    <img src="https://img.shields.io/badge/Enviar%20mensaje%20profesional-Contactar%20ahora-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+<p align="center">
+  Desarrollado con dedicación por <b>Ángel A. Colón Negrón</b> 🇵🇷
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer" />
