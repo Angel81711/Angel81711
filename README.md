@@ -1,3 +1,4 @@
+````md
 <!-- BANNER PRINCIPAL -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=230&section=header&text=Ángel%20A.%20Colón%20Negrón&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programador%20%7C%20Técnico%20de%20Computadoras%20%7C%20Desarrollador%20Web&descAlignY=58&descSize=16" />
@@ -20,7 +21,7 @@
   <a href="https://angeltechsolutions.dev/">
     <img src="https://img.shields.io/badge/🌐%20Página%20Web%20Oficial-AngelTech%20Solutions-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:angelcolonnegron@gmail.com">
+  <a href="mailto:contacto@angeltechsolutions.dev">
     <img src="https://img.shields.io/badge/📩%20Contacto-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -204,22 +205,6 @@ Trabajo combinando **diseño web, programación, soporte técnico, inteligencia 
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=2563eb&currStreakLabel=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=ffffff" />
-</p>
-
----
-
 ## 🧠 Mi enfoque
 
 ```txt
@@ -230,3 +215,32 @@ Trabajo combinando **diseño web, programación, soporte técnico, inteligencia 
 ✅ Sistemas funcionales
 ✅ Soluciones reales para escuelas y negocios
 ✅ Integración de herramientas modernas e inteligencia artificial
+````
+
+---
+
+## 💬 Frase personal
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=La%20tecnología%20no%20solo%20se%20usa,%20también%20se%20crea.&fontSize=24&fontColor=38bdf8&animation=fadeIn" />
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://angeltechsolutions.dev/">
+    <img src="https://img.shields.io/badge/Web%20Oficial-AngelTech%20Solutions-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:contacto@angeltechsolutions.dev">
+    <img src="https://img.shields.io/badge/Email-contacto%40angeltechsolutions.dev-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer" />
+</p>
+```
