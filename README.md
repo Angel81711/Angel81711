@@ -1,121 +1,232 @@
-<!-- Banner principal -->
-<h1 align="center">Hola, soy Ángel A. Colón Negrón 👋</h1>
+<!-- BANNER PRINCIPAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=230&section=header&text=Ángel%20A.%20Colón%20Negrón&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programador%20%7C%20Técnico%20de%20Computadoras%20%7C%20Desarrollador%20Web&descAlignY=58&descSize=16" />
+</p>
+
+<h1 align="center">🚀 Bienvenido a mi GitHub</h1>
 
 <h3 align="center">
-Programador | Técnico de Computadoras | Desarrollador Web de Puerto Rico 🇵🇷
+  Programador y técnico de computadoras de Puerto Rico 🇵🇷
 </h3>
 
 <p align="center">
-  Creo páginas web profesionales, sistemas administrativos, dashboards, formularios inteligentes y soluciones digitales para escuelas, negocios y proyectos reales.
+  Desarrollo páginas web profesionales, dashboards, sistemas administrativos, formularios inteligentes y soluciones digitales para escuelas, negocios y proyectos reales.
+</p>
+
+---
+
+<!-- BOTONES PRINCIPALES -->
+<p align="center">
+  <a href="https://angeltechsolutions.dev/">
+    <img src="https://img.shields.io/badge/🌐%20Página%20Web%20Oficial-AngelTech%20Solutions-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:angelcolonnegron@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Contacto-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://angeltechsolutions.dev/">
+    <img src="https://img.shields.io/badge/Entrar%20a%20mi%20Portafolio%20Profesional-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Mi página oficial
+
+<p align="center">
+  <a href="https://angeltechsolutions.dev/">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:2563eb&height=120&section=header&text=AngelTech%20Solutions&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Portafolio%20oficial%20%7C%20Proyectos%20%7C%20Servicios%20%7C%20Experiencia&descSize=15&descAlignY=75" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Mi sitio web oficial presenta mis servicios, experiencia, proyectos realizados y soluciones digitales.</b>
+</p>
+
+<p align="center">
+  <a href="https://angeltechsolutions.dev/">
+    <img src="https://img.shields.io/badge/Visitar%20AngelTech%20Solutions-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy programador y técnico de computadoras con experiencia en desarrollo web, soporte técnico, reparación de computadoras, creación de sistemas administrativos y automatización de procesos.
+Soy **Ángel A. Colón Negrón**, programador y técnico de computadoras.  
+Me especializo en crear páginas web modernas, sistemas administrativos, dashboards, formularios inteligentes, automatizaciones y plataformas digitales para resolver problemas reales.
 
-Me especializo en crear soluciones digitales funcionales, visuales y fáciles de usar. He trabajado en proyectos escolares, páginas web para negocios, sistemas de servicio técnico, dashboards administrativos y plataformas educativas.
+Trabajo combinando **diseño web, programación, soporte técnico, inteligencia artificial y organización digital** para crear soluciones útiles, profesionales y fáciles de usar.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,vercel,cloudflare,supabase" />
 </p>
 
-### 🔧 Herramientas y plataformas
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Experiencia-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Diseño%20Profesional-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Funcionalidad-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-- HTML, CSS y JavaScript
-- Visual Studio Code
-- GitHub Pages
-- Vercel
-- Cloudflare
-- Supabase
-- EmailJS
-- ChatGPT, Copilot, Claude, Gemini y otras herramientas de IA
-- Notepad++
-- Sistemas administrativos y dashboards
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Publicación-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-Dominios-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
 
 ---
 
 ## 🌐 Proyectos destacados
 
-### 🏫 PCB System
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏫 PCB System</h3>
+      <p align="center">
+        Sistema principal con páginas, accesos y herramientas digitales para la Escuela Superior Vocacional Pablo Colón Berdecia.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/pcbsystem/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-2563eb?style=for-the-badge&logo=githubpages&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏠 Casa Abierta Official</h3>
+      <p align="center">
+        Página para presentar talleres escolares, información educativa y contenido visual profesional para visitantes.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/Casa_Abierta_Official/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-2563eb?style=for-the-badge&logo=githubpages&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 
-Sistema principal creado para la Escuela Superior Vocacional Pablo Colón Berdecia.  
-Incluye accesos a páginas escolares, sistemas internos, servicios digitales y herramientas para el personal escolar.
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛠️ Servicio Técnico</h3>
+      <p align="center">
+        Sistema para solicitudes de servicio técnico, organización de casos y apoyo al personal escolar.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/Servicio-Tecnico/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖨️ Copias PCB</h3>
+      <p align="center">
+        Página enfocada en servicios de copias, impresión y organización digital dentro del entorno escolar.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/CopiasPCB/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 
-🔗 **Ver proyecto:**  
-[PCB System](https://pcbsystempr-cyber.github.io/pcbsystem/)
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 Recursos para Estudiantes</h3>
+      <p align="center">
+        Plataforma educativa con recursos organizados para estudiantes.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/Recursos-para-estudiantes-oficial/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-38bdf8?style=for-the-badge&logo=githubpages&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Gaming Day</h3>
+      <p align="center">
+        Página para evento escolar de gaming, torneos, reglas, agenda, premios y presentación visual.
+      </p>
+      <p align="center">
+        <a href="https://pcbsystempr-cyber.github.io/Day-Gaming_Day-FinalA/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-38bdf8?style=for-the-badge&logo=githubpages&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
 
----
-
-### 🏠 Casa Abierta Official
-
-Página web creada para presentar los talleres de la escuela durante la Casa Abierta.  
-Incluye información de talleres, diseño visual, navegación profesional y estructura educativa.
-
-🔗 **Ver proyecto:**  
-[Casa Abierta Official](https://pcbsystempr-cyber.github.io/Casa_Abierta_Official/)
-
----
-
-### 🛠️ Servicio Técnico
-
-Sistema para solicitudes de servicio técnico escolar.  
-Permite organizar solicitudes, facilitar el trabajo técnico y mejorar la comunicación entre maestros y técnicos.
-
-🔗 **Ver proyecto:**  
-[Servicio Técnico](https://pcbsystempr-cyber.github.io/Servicio-Tecnico/)
-
----
-
-### 🖨️ Copias PCB
-
-Página creada para manejar o presentar servicios relacionados con copias e impresión dentro del entorno escolar.
-
-🔗 **Ver proyecto:**  
-[Copias PCB](https://pcbsystempr-cyber.github.io/CopiasPCB/)
-
----
-
-### 📚 Recursos para Estudiantes
-
-Plataforma de recursos educativos para estudiantes, organizada para facilitar el acceso a materiales importantes.
-
-🔗 **Ver proyecto:**  
-[Recursos para Estudiantes](https://pcbsystempr-cyber.github.io/Recursos-para-estudiantes-oficial/)
-
----
-
-### 🎮 Gaming Day
-
-Página web para evento escolar de gaming, torneos, reglas, agenda, premios y presentación del evento.
-
-🔗 **Ver proyecto:**  
-[Gaming Day](https://pcbsystempr-cyber.github.io/Day-Gaming_Day-FinalA/)
-
----
-
-### 🏦 DecaCoop de Barranquitas
-
-Página web profesional creada para presentar servicios, información institucional y contenido digital de DecaCoop.
-
-🔗 **Ver proyecto:**  
-[DecaCoop de Barranquitas](https://decacoopdebarranquitas.vercel.app/)
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 DecaCoop de Barranquitas</h3>
+      <p align="center">
+        Página profesional para presentar información institucional y servicios digitales.
+      </p>
+      <p align="center">
+        <a href="https://decacoopdebarranquitas.vercel.app/">
+          <img src="https://img.shields.io/badge/Ver%20Proyecto-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 AngelTech Solutions</h3>
+      <p align="center">
+        Mi página web oficial, donde presento mis servicios, experiencia, proyectos y soluciones digitales.
+      </p>
+      <p align="center">
+        <a href="https://angeltechsolutions.dev/">
+          <img src="https://img.shields.io/badge/Ver%20Página%20Oficial-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Áreas en las que trabajo
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollo%20Web-HTML%20%7C%20CSS%20%7C%20JS-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-Administrativos-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Soporte%20Técnico-Computadoras-0284c7?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Formularios-Inteligentes-38bdf8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automatizaciones-Soluciones%20Digitales-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IA-Herramientas%20Modernas-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=2563eb&currStreakLabel=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=ffffff" />
+</p>
+
+---
+
+## 🧠 Mi enfoque
+
 ```txt
-💻 Desarrollo Web
-🛠️ Soporte Técnico
-📊 Dashboards Administrativos
-📋 Formularios Inteligentes
-🤖 Automatizaciones
-🏫 Sistemas para Escuelas
-🧠 Integración de Inteligencia Artificial
-🌐 Páginas para Negocios
+✅ Diseño profesional
+✅ Experiencia visual moderna
+✅ Código organizado
+✅ Páginas responsivas
+✅ Sistemas funcionales
+✅ Soluciones reales para escuelas y negocios
+✅ Integración de herramientas modernas e inteligencia artificial
