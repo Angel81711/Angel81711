@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=230&section=header&text=Ángel%20A.%20Colón%20Negrón&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programador%20%7C%20Técnico%20de%20Computadoras%20%7C%20Desarrollador%20Web&descAlignY=58&descSize=16" />
 </p>
